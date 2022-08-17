@@ -1,3 +1,3 @@
 WEB DEVELOPER || JavaScript || CSS || HTML
 
-Welcome to my Repositories.
+Practicing code a few hours a day.
