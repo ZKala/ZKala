@@ -1,3 +1,4 @@
-WEB DEVELOPER || JavaScript || CSS || HTML
+ASPIRING WEB DEVELOPER
+JavaScript || CSS || HTML
 
 Practicing code a few hours a day.
