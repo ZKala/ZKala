@@ -1,6 +1,10 @@
-ASPIRING WEB DEVELOPER
+WEB DEVELOPER
+Aspiring Full-Stack developer
 
 Current Tech-Stack:
-JavaScript || CSS || HTML
+HTML || CSS || JS
+
+Currently Learning:
+MERN(MongoDB, Express, React, Node)
 
 Practicing code a few hours a day.
